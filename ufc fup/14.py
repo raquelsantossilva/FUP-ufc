@@ -1,0 +1,9 @@
+n1=(input())
+m=n1[0:1]
+c=n1[1:2]
+d=n1[2:3]
+u=n1[3:4]
+print(m)
+print(c)
+print(d)
+print(u)

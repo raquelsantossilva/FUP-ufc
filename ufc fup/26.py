@@ -1,0 +1,5 @@
+string=(input())
+l1=(input())
+l2=(input())
+f=string.replace(l1,l2)
+print(f)

@@ -1,0 +1,5 @@
+x=(input())
+c=(input())
+p=int(input())
+s=(x.find(c,p))
+print(s)
